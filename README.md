@@ -1,5 +1,10 @@
-### Hi there 👋
+# About me
 
+I'm a technical writer who's relatively new to GitHub.
+
+I'm open to contributing to documentation development for projects created and managed on this platform!
+
+You can find me on [LinkedIn](www.linkedin.com/in/samueladelaar).
 <!--
 **sadelaar/sadelaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
